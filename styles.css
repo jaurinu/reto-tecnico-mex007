@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
+
+body {
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.band-list {
+    font-family: 'Inconsolata', monospace;
+    color: whitesmoke;
+    font-size: 25px;
+    text-align: center;
+    list-style: none;
+}
